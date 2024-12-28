@@ -1,0 +1,12 @@
+# Dockerized full stack: UI, API, and Neo4j on 2024-12-28
+# Improved error handling for API layer on 2025-01-10
+# Refactored agent logic into separate module on 2025-01-21
+# Updated prompt templates for clarity on 2025-02-02
+# Linked UI to backend with POST call on 2025-02-11
+# Added logging and debug info for agent output on 2025-02-25
+# Tested with real OpenAI key and prompt history on 2025-03-05
+# Added .env loader for OpenAI and Neo4j configs on 2025-03-18
+# Cleaned up hardcoded credentials and secured env on 2025-03-28
+# Fixed internal server error from bad JSON schema on 2025-04-02
+# Final deployment test with full stack running on 2025-04-08
+# Last tweaks and docs before GitHub release on 2025-04-22
