@@ -7,3 +7,4 @@ Added logging and debug info for agent output
 Tested with real OpenAI key and prompt history
 Added .env loader for OpenAI and Neo4j configs
 Cleaned up hardcoded credentials and secured env
+Fixed internal server error from bad JSON schema
