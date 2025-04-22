@@ -9,3 +9,4 @@ Added .env loader for OpenAI and Neo4j configs
 Cleaned up hardcoded credentials and secured env
 Fixed internal server error from bad JSON schema
 Final deployment test with full stack running
+Last tweaks and docs before GitHub release
