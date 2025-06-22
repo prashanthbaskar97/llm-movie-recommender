@@ -1,4 +1,4 @@
-# LLM Movie Recommender
+
 # 🎬 LLM Movie Recommender
 
 An interactive full-stack movie recommendation app powered by **LangChain**, **Neo4j**, and **OpenAI**. Ask natural language queries like _"Recommend a romantic comedy from the 90s"_ and get curated movie suggestions with rich knowledge graph support.
